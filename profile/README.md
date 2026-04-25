@@ -38,3 +38,9 @@ git clone https://github.com/explain-labs/explain-user-rs.git
 ```
 
 Each repo's README covers its build commands and directory layout. Most contributors only need one or two of the three depending on what they're working on.
+
+## Maintainer
+
+**Tim Antonius**  
+Neonatologist · Radboudumc Amalia Children's Hospital, Department of Pediatrics – Division of Neonatology  
+[GitHub](https://github.com/Dobutamine) · [Email](mailto:timantonius@pm.me)
