@@ -1,6 +1,6 @@
 # Explain Development Pipeline
 
-> **Historical.** This document describes the earlier three-implementation pipeline (`explain-user-js` / `explain-user-python` / `explain-user-rs`). Current development happens in [`explain-engine`](https://github.com/explain-labs/explain-engine) and [`explain-ui`](https://github.com/explain-labs/explain-ui); the first two repos are archived. Kept for reference.
+> **Historical.** This document describes the earlier three-implementation pipeline (`explain-user-js` / `explain-user-python` / `explain-user-rs`). Current development happens in [`explain-engine`](https://github.com/explain-labs/explain-engine) and [`explain-ui`](https://github.com/explain-labs/explain-ui); all three of those repositories are now archived. Kept for reference.
 
 Explain is a physiological simulation engine for neonatology, modeling cardiac and respiratory systems as a network of small typed components (capacitances, resistors, time-varying elastances, gas exchangers, diffusors) wired together by a JSON `model_definition`. The same engine exists in three implementations — JavaScript, Python, and Rust — each serving a different stage of the development lifecycle.
 

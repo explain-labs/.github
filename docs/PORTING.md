@@ -1,6 +1,6 @@
 # Porting a model: JavaScript → Python → Rust
 
-> **Historical.** This document describes the earlier three-implementation pipeline (`explain-user-js` / `explain-user-python` / `explain-user-rs`). Current development happens in [`explain-engine`](https://github.com/explain-labs/explain-engine) and [`explain-ui`](https://github.com/explain-labs/explain-ui); the first two repos are archived. Kept for reference.
+> **Historical.** This document describes the earlier three-implementation pipeline (`explain-user-js` / `explain-user-python` / `explain-user-rs`). Current development happens in [`explain-engine`](https://github.com/explain-labs/explain-engine) and [`explain-ui`](https://github.com/explain-labs/explain-ui); all three of those repositories are now archived. Kept for reference.
 
 This is the working manual for taking a new model from `explain-user-js` through to `explain-user-python` and (if needed) `explain-user-rs`. It assumes the model has already been developed and validated interactively in the JS engine, and you now want to make it available to research scripts and (eventually) long-running Rust simulations.
 
