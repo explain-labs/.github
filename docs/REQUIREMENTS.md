@@ -1,5 +1,7 @@
 # Requirements
 
+> **Historical.** This document describes the earlier three-implementation pipeline (`explain-user-js` / `explain-user-python` / `explain-user-rs`). Current development happens in [`explain-engine`](https://github.com/explain-labs/explain-engine) and [`explain-ui`](https://github.com/explain-labs/explain-ui); the first two repos are archived. Kept for reference.
+
 What you need installed to use the Explain modeling pipeline. Split per implementation (JavaScript, Python, Rust) and per operating system (macOS, Windows, Linux).
 
 You don't need everything. Start with the implementation you actually want to use — `DEVELOPMENT_PIPELINE.md` explains which one fits which task. Most users will only need the JavaScript app; researchers add Python; long-running simulations add Rust.
